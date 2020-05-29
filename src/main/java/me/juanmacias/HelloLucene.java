@@ -19,7 +19,7 @@ import org.apache.lucene.store.RAMDirectory;
 
 import java.io.IOException;
 
-public class HelloLucene {
+public class  HelloLucene {
 
     public static void main(String[] args) throws IOException {
         // 0. Specify the analyzer for tokenizing text.
