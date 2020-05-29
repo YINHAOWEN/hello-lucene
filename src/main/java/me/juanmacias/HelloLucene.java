@@ -37,6 +37,8 @@ public class  HelloLucene {
         addDoc(w, "Managing Gigabytes", "55063554A");
         addDoc(w, "The Art of Computer Science", "9900333X");
   addDoc(w, "MongoDB in Action", "9900333y");
+  addDoc(w, "Redis in Action", "9900333z");
+  addDoc(w, "Maven in Action", "9900333u");   
         w.close();
 
         // 2. query
